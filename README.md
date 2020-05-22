@@ -1,6 +1,6 @@
 # Donation
 
-I'm a full-time open source developer. Any amount of the donations will be highly appreciated and could bring me great encouragement.
+Any amount of donations would be highly appreciated and means a lot to TuringCell.
 
 * Alipay (支付(宝|寶))
 
