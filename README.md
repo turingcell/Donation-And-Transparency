@@ -7,9 +7,11 @@
 
 # Transparency
 
-|   时间    | +入账 / -支出 |               捐款人                | 收款人 | 备注 |
-| :-------: | :-----------: | :---------------------------------: | :----: | :--: |
-| 2021.2.19 |   +1555 RMB   | [sofish](https://github.com/sofish) |        |      |
+|   时间    | +入账 / -支出 |                捐款人                |                  收款人                  |                             备注                             |
+| :-------: | :-----------: | :----------------------------------: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2021.2.19 |   +1555 RMB   | [@sofish](https://github.com/sofish) |                                          |                                                              |
+| 2021.2.21 |   -300 RMB    |                                      | [@pooolman](https://github.com/pooolman) | [veela task #3](https://github.com/turingcell/veela/blob/main/TasksBoard.md) |
+| 2021.2.21 |   -400 RMB    |                                      |  [@drewryz](https://github.com/drewryz)  | [veela task #2](https://github.com/turingcell/veela/blob/main/TasksBoard.md) |
 
 # How to Donate
 
